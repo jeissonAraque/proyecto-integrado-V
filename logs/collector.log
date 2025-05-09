@@ -1,0 +1,56 @@
+2025-05-05 19:58:24,593 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
+2025-05-05 19:58:24,593 - INFO - Collector inicializado para el ticker KO
+2025-05-05 19:58:24,593 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-05 19:58:24,593 - INFO - Sector: Consumer Defensive
+2025-05-05 19:58:24,593 - INFO - Cierre anterior: 71.65
+2025-05-05 19:58:24,593 - INFO - Datos obtenidos para el período 2023-01-01 a 2023-10-01.
+2025-05-05 19:58:25,297 - INFO - Datos guardados en archivo CSV: src/coca_cola/static\data\historical.csv
+2025-05-05 19:58:25,556 - INFO - Datos guardados en la base de datos SQLite.
+2025-05-05 19:58:25,556 - INFO - Guardado en la base de datos exitosamente.
+2025-05-05 20:39:26,362 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
+2025-05-05 20:39:26,374 - INFO - Collector inicializado para el ticker KO
+2025-05-05 20:39:26,375 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-05 20:39:26,376 - INFO - Sector: Consumer Defensive
+2025-05-05 20:39:26,377 - INFO - Cierre anterior: 71.65
+2025-05-05 20:39:26,377 - INFO - Datos obtenidos para el período 2023-01-01 a 2023-10-01.
+2025-05-05 20:39:31,019 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-05 20:39:31,406 - INFO - Datos guardados en la base de datos SQLite.
+2025-05-05 20:39:31,407 - INFO - Guardado en la base de datos exitosamente.
+2025-05-08 19:16:28,097 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
+2025-05-08 19:16:28,098 - INFO - Collector inicializado para el ticker KO
+2025-05-08 19:16:28,099 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-08 19:16:28,099 - INFO - Sector: Consumer Defensive
+2025-05-08 19:16:28,099 - INFO - Cierre anterior: 72.4
+2025-05-08 19:16:28,099 - INFO - Datos obtenidos para el período 2023-01-01 a 2023-10-01.
+2025-05-08 19:16:28,847 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-08 19:16:29,140 - INFO - Datos guardados en la base de datos SQLite.
+2025-05-08 19:16:29,141 - INFO - Guardado en la base de datos exitosamente.
+2025-05-09 16:56:52,017 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
+2025-05-09 16:56:52,043 - INFO - Collector inicializado para el ticker KO
+2025-05-09 16:56:52,043 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-09 16:56:52,045 - INFO - Sector: Consumer Defensive
+2025-05-09 16:56:52,045 - INFO - Cierre anterior: 71.17
+2025-05-09 16:56:52,045 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-09 16:56:57,647 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-09 17:03:05,955 - INFO - Collector inicializado para el ticker KO
+2025-05-09 17:03:05,957 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-09 17:03:05,957 - INFO - Sector: Consumer Defensive
+2025-05-09 17:03:05,957 - INFO - Cierre anterior: 71.17
+2025-05-09 17:03:05,957 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-09 17:03:09,401 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-09 17:08:47,981 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-09 17:08:47,981 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-09 17:08:47,981 - INFO - Sector: Consumer Defensive
+2025-05-09 17:08:47,981 - INFO - Cierre anterior: 67.73
+2025-05-09 17:08:47,985 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-09 17:08:49,050 - INFO - Total de datos obtenidos: 3425
+2025-05-09 17:08:49,050 - INFO - Guardando datos en archivo CSV...
+2025-05-09 17:08:49,170 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-09 17:10:23,239 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-09 17:10:23,239 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-09 17:10:23,242 - INFO - Sector: Consumer Defensive
+2025-05-09 17:10:23,242 - INFO - Cierre anterior: 67.73
+2025-05-09 17:10:23,242 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-09 17:10:24,572 - INFO - Total de datos obtenidos: 3425
+2025-05-09 17:10:24,667 - INFO - Guardando datos en archivo CSV...
+2025-05-09 17:10:24,776 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
