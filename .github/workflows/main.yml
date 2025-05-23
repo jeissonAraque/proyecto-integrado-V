@@ -30,3 +30,11 @@ jobs:
         run: |
           .\venv\Scripts\activate
           python src/coca_cola/collector.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: get data
+          commit_user_name: jeissonAraque [GitHub Actions]
+          commit_user_email: jeisson.araque@est.iudigital.edu.co
+          commit_author: jeissonAraque <jeisson.araque@est.iudigital.edu.co>
