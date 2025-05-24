@@ -1,0 +1,15 @@
+2025-05-23 16:46:49,944 - INFO - Modelo entrenado.
+2025-05-23 16:46:49,945 - INFO - RMSE: 0.4584
+2025-05-23 16:46:49,946 - INFO - MAE: 0.2828
+2025-05-23 16:46:49,946 - INFO - R²: 0.9993
+2025-05-23 16:46:49,949 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-05-23 17:39:19,686 - INFO - Modelo entrenado.
+2025-05-23 17:39:19,687 - INFO - RMSE: 0.4584
+2025-05-23 17:39:19,689 - INFO - MAE: 0.2828
+2025-05-23 17:39:19,689 - INFO - R²: 0.9993
+2025-05-23 17:39:19,693 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-05-24 10:03:53,794 - INFO - Modelo entrenado.
+2025-05-24 10:03:53,794 - INFO - RMSE: 0.4535
+2025-05-24 10:03:53,794 - INFO - MAE: 0.2798
+2025-05-24 10:03:53,794 - INFO - R²: 0.9993
+2025-05-24 10:03:53,811 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl

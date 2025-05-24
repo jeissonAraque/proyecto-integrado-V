@@ -1,56 +1,99 @@
-2025-05-05 19:58:24,593 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
-2025-05-05 19:58:24,593 - INFO - Collector inicializado para el ticker KO
-2025-05-05 19:58:24,593 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-05 19:58:24,593 - INFO - Sector: Consumer Defensive
-2025-05-05 19:58:24,593 - INFO - Cierre anterior: 71.65
-2025-05-05 19:58:24,593 - INFO - Datos obtenidos para el período 2023-01-01 a 2023-10-01.
-2025-05-05 19:58:25,297 - INFO - Datos guardados en archivo CSV: src/coca_cola/static\data\historical.csv
-2025-05-05 19:58:25,556 - INFO - Datos guardados en la base de datos SQLite.
-2025-05-05 19:58:25,556 - INFO - Guardado en la base de datos exitosamente.
-2025-05-05 20:39:26,362 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
-2025-05-05 20:39:26,374 - INFO - Collector inicializado para el ticker KO
-2025-05-05 20:39:26,375 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-05 20:39:26,376 - INFO - Sector: Consumer Defensive
-2025-05-05 20:39:26,377 - INFO - Cierre anterior: 71.65
-2025-05-05 20:39:26,377 - INFO - Datos obtenidos para el período 2023-01-01 a 2023-10-01.
-2025-05-05 20:39:31,019 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
-2025-05-05 20:39:31,406 - INFO - Datos guardados en la base de datos SQLite.
-2025-05-05 20:39:31,407 - INFO - Guardado en la base de datos exitosamente.
-2025-05-08 19:16:28,097 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
-2025-05-08 19:16:28,098 - INFO - Collector inicializado para el ticker KO
-2025-05-08 19:16:28,099 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-08 19:16:28,099 - INFO - Sector: Consumer Defensive
-2025-05-08 19:16:28,099 - INFO - Cierre anterior: 72.4
-2025-05-08 19:16:28,099 - INFO - Datos obtenidos para el período 2023-01-01 a 2023-10-01.
-2025-05-08 19:16:28,847 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
-2025-05-08 19:16:29,140 - INFO - Datos guardados en la base de datos SQLite.
-2025-05-08 19:16:29,141 - INFO - Guardado en la base de datos exitosamente.
-2025-05-09 16:56:52,017 - INFO - Tabla historical_data creada/verificada en la base de datos SQLite.
-2025-05-09 16:56:52,043 - INFO - Collector inicializado para el ticker KO
-2025-05-09 16:56:52,043 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-09 16:56:52,045 - INFO - Sector: Consumer Defensive
-2025-05-09 16:56:52,045 - INFO - Cierre anterior: 71.17
-2025-05-09 16:56:52,045 - INFO - Datos obtenidos desde el 2011 a 2025.
-2025-05-09 16:56:57,647 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
-2025-05-09 17:03:05,955 - INFO - Collector inicializado para el ticker KO
-2025-05-09 17:03:05,957 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-09 17:03:05,957 - INFO - Sector: Consumer Defensive
-2025-05-09 17:03:05,957 - INFO - Cierre anterior: 71.17
-2025-05-09 17:03:05,957 - INFO - Datos obtenidos desde el 2011 a 2025.
-2025-05-09 17:03:09,401 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
-2025-05-09 17:08:47,981 - INFO - Collector inicializado para el ticker COCA34.SA
-2025-05-09 17:08:47,981 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-09 17:08:47,981 - INFO - Sector: Consumer Defensive
-2025-05-09 17:08:47,981 - INFO - Cierre anterior: 67.73
-2025-05-09 17:08:47,985 - INFO - Datos obtenidos desde el 2011 a 2025.
-2025-05-09 17:08:49,050 - INFO - Total de datos obtenidos: 3425
-2025-05-09 17:08:49,050 - INFO - Guardando datos en archivo CSV...
-2025-05-09 17:08:49,170 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
-2025-05-09 17:10:23,239 - INFO - Collector inicializado para el ticker COCA34.SA
-2025-05-09 17:10:23,239 - INFO - Nombre largo: The Coca-Cola Company
-2025-05-09 17:10:23,242 - INFO - Sector: Consumer Defensive
-2025-05-09 17:10:23,242 - INFO - Cierre anterior: 67.73
-2025-05-09 17:10:23,242 - INFO - Datos obtenidos desde el 2011 a 2025.
-2025-05-09 17:10:24,572 - INFO - Total de datos obtenidos: 3425
-2025-05-09 17:10:24,667 - INFO - Guardando datos en archivo CSV...
-2025-05-09 17:10:24,776 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-23 16:46:42,948 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-23 16:46:42,948 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-23 16:46:42,949 - INFO - Sector: Consumer Defensive
+2025-05-23 16:46:42,949 - INFO - Cierre anterior: 66.89
+2025-05-23 16:46:42,950 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-23 16:46:44,606 - INFO - Total de datos obtenidos: 3435
+2025-05-23 16:46:44,607 - INFO - Guardando datos en archivo CSV...
+2025-05-23 16:46:44,708 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-23 16:46:48,452 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-23 16:46:48,452 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-23 16:46:48,465 - INFO - Sector: Consumer Defensive
+2025-05-23 16:46:48,466 - INFO - Cierre anterior: 66.89
+2025-05-23 16:46:48,466 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-23 16:46:49,598 - INFO - Total de datos obtenidos: 3435
+2025-05-23 16:46:49,613 - INFO - Datos enriquecidos correctamente.
+2025-05-23 16:46:49,613 - INFO - Total de datos enriquecidos: 3415
+2025-05-23 16:46:49,614 - INFO - Guardando datos en archivo CSV...
+2025-05-23 16:46:49,712 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-23 16:46:49,869 - INFO - Datos enriquecidos guardados en: src/coca_cola/static/data/enriched.csv
+2025-05-23 16:46:49,869 - INFO - Obtener datos para entrenar el modelo
+2025-05-23 16:46:49,950 - INFO - Modelo entrenado correctamente.
+2025-05-23 16:46:49,951 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-05-23 16:46:49,952 - INFO - Obtener datos para predecir
+2025-05-23 16:46:49,978 - INFO - [6.14374305 6.14374305 6.14374305 6.14374305 6.14374305]
+2025-05-23 16:46:49,980 - INFO - Predicciones realizadas correctamente.
+2025-05-23 16:46:49,980 - INFO - Predicciones guardadas en: src/coca_cola/static/models/model.pkl
+2025-05-23 16:46:50,122 - INFO - Predicciones guardadas en archivo CSV: src/coca_cola/static/data/predicciones.csv
+2025-05-23 17:39:17,135 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-23 17:39:17,136 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-23 17:39:17,136 - INFO - Sector: Consumer Defensive
+2025-05-23 17:39:17,137 - INFO - Cierre anterior: 66.89
+2025-05-23 17:39:17,137 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-23 17:39:18,066 - INFO - Total de datos obtenidos: 3435
+2025-05-23 17:39:18,103 - INFO - Guardando datos en archivo CSV...
+2025-05-23 17:39:18,192 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-23 17:39:18,669 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-23 17:39:18,670 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-23 17:39:18,670 - INFO - Sector: Consumer Defensive
+2025-05-23 17:39:18,670 - INFO - Cierre anterior: 66.89
+2025-05-23 17:39:18,671 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-23 17:39:19,281 - INFO - Total de datos obtenidos: 3435
+2025-05-23 17:39:19,293 - INFO - Datos enriquecidos correctamente.
+2025-05-23 17:39:19,294 - INFO - Total de datos enriquecidos: 3415
+2025-05-23 17:39:19,295 - INFO - Guardando datos en archivo CSV...
+2025-05-23 17:39:19,408 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-23 17:39:19,586 - INFO - Datos enriquecidos guardados en: src/coca_cola/static/data/enriched.csv
+2025-05-23 17:39:19,587 - INFO - Obtener datos para entrenar el modelo
+2025-05-23 17:39:19,694 - INFO - Modelo entrenado correctamente.
+2025-05-23 17:39:19,695 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-05-23 17:39:19,695 - INFO - Obtener datos para predecir
+2025-05-23 17:39:19,716 - INFO - [6.14374303 6.14374303 6.14374303 6.14374303 6.14374303]
+2025-05-23 17:39:19,717 - INFO - Predicciones realizadas correctamente.
+2025-05-23 17:39:19,718 - INFO - Predicciones guardadas en: src/coca_cola/static/models/model.pkl
+2025-05-23 17:39:19,851 - INFO - Predicciones guardadas en archivo CSV: src/coca_cola/static/data/predicciones.csv
+2025-05-23 17:39:19,857 - INFO - KPIs calculados y guardados correctamente.
+2025-05-23 17:39:19,857 - INFO - Archivo de KPIs generado en: src/coca_cola/static/data/kpis.csv
+2025-05-23 17:39:19,870 - INFO - 
+                                        KPI       Valor       Fecha
+0     Tasa de variación diaria promedio (%)    0.079708  2025-05-23
+1               Media móvil 5 días promedio   29.487814  2025-05-23
+2              Volatilidad 20 días promedio    0.012284  2025-05-23
+3                     Retorno acumulado (%)  989.584966  2025-05-23
+4  Desviación estándar del precio de cierre   17.419425  2025-05-23
+2025-05-24 10:03:44,594 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-24 10:03:44,616 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-24 10:03:44,616 - INFO - Sector: Consumer Defensive
+2025-05-24 10:03:44,616 - INFO - Cierre anterior: 66.89
+2025-05-24 10:03:44,616 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-24 10:03:50,402 - INFO - Total de datos obtenidos: 3435
+2025-05-24 10:03:50,403 - INFO - Guardando datos en archivo CSV...
+2025-05-24 10:03:50,505 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-24 10:03:51,967 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-24 10:03:51,967 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-24 10:03:51,974 - INFO - Sector: Consumer Defensive
+2025-05-24 10:03:51,974 - INFO - Cierre anterior: 66.89
+2025-05-24 10:03:51,974 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-24 10:03:53,104 - INFO - Total de datos obtenidos: 3435
+2025-05-24 10:03:53,126 - INFO - Datos enriquecidos correctamente.
+2025-05-24 10:03:53,126 - INFO - Total de datos enriquecidos: 3415
+2025-05-24 10:03:53,128 - INFO - Guardando datos en archivo CSV...
+2025-05-24 10:03:53,225 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-24 10:03:53,379 - INFO - Datos enriquecidos guardados en: src/coca_cola/static/data/enriched.csv
+2025-05-24 10:03:53,381 - INFO - Obtener datos para entrenar el modelo
+2025-05-24 10:03:53,812 - INFO - Modelo entrenado correctamente.
+2025-05-24 10:03:53,813 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-05-24 10:03:53,813 - INFO - Obtener datos para predecir
+2025-05-24 10:03:53,837 - INFO - [6.05618712 6.05618712 6.05618712 6.05618712 6.05618712]
+2025-05-24 10:03:53,838 - INFO - Predicciones realizadas correctamente.
+2025-05-24 10:03:53,839 - INFO - Predicciones guardadas en: src/coca_cola/static/models/model.pkl
+2025-05-24 10:03:54,014 - INFO - Predicciones guardadas en archivo CSV: src/coca_cola/static/data/predicciones.csv
+2025-05-24 10:03:54,024 - INFO - KPIs calculados y guardados correctamente.
+2025-05-24 10:03:54,024 - INFO - Archivo de KPIs generado en: src/coca_cola/static/data/kpis.csv
+2025-05-24 10:03:54,040 - INFO - 
+                                        KPI    Valor       Fecha
+0     Tasa de variación diaria promedio (%)     0.08  2025-05-24
+1               Media móvil 5 días promedio    29.11  2025-05-24
+2              Volatilidad 20 días promedio     0.01  2025-05-24
+3                     Retorno acumulado (%)  1005.25  2025-05-24
+4  Desviación estándar del precio de cierre    17.25  2025-05-24
