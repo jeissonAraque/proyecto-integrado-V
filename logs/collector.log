@@ -97,3 +97,39 @@
 2              Volatilidad 20 días promedio     0.01  2025-05-24
 3                     Retorno acumulado (%)  1005.25  2025-05-24
 4  Desviación estándar del precio de cierre    17.25  2025-05-24
+2025-05-24 16:05:26,397 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-24 16:05:26,397 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-24 16:05:26,412 - INFO - Sector: Consumer Defensive
+2025-05-24 16:05:26,412 - INFO - Cierre anterior: 66.89
+2025-05-24 16:05:26,412 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-24 16:05:26,774 - INFO - Total de datos obtenidos: 3435
+2025-05-24 16:05:26,774 - INFO - Guardando datos en archivo CSV...
+2025-05-24 16:05:26,806 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-24 16:05:26,821 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-05-24 16:05:26,821 - INFO - Nombre largo: The Coca-Cola Company
+2025-05-24 16:05:26,821 - INFO - Sector: Consumer Defensive
+2025-05-24 16:05:26,821 - INFO - Cierre anterior: 66.89
+2025-05-24 16:05:26,821 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-05-24 16:05:26,869 - INFO - Total de datos obtenidos: 3435
+2025-05-24 16:05:26,884 - INFO - Datos enriquecidos correctamente.
+2025-05-24 16:05:26,884 - INFO - Total de datos enriquecidos: 3415
+2025-05-24 16:05:26,884 - INFO - Guardando datos en archivo CSV...
+2025-05-24 16:05:26,916 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-05-24 16:05:26,978 - INFO - Datos enriquecidos guardados en: src/coca_cola/static/data/enriched.csv
+2025-05-24 16:05:26,978 - INFO - Obtener datos para entrenar el modelo
+2025-05-24 16:05:26,994 - INFO - Modelo entrenado correctamente.
+2025-05-24 16:05:26,994 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-05-24 16:05:26,994 - INFO - Obtener datos para predecir
+2025-05-24 16:05:26,994 - INFO - [6.05848682 6.05848682 6.05848682 6.05848682 6.05848682]
+2025-05-24 16:05:26,994 - INFO - Predicciones realizadas correctamente.
+2025-05-24 16:05:26,994 - INFO - Predicciones guardadas en: src/coca_cola/static/models/model.pkl
+2025-05-24 16:05:27,056 - INFO - Predicciones guardadas en archivo CSV: src/coca_cola/static/data/predicciones.csv
+2025-05-24 16:05:27,072 - INFO - KPIs calculados y guardados correctamente.
+2025-05-24 16:05:27,072 - INFO - Archivo de KPIs generado en: src/coca_cola/static/data/kpis.csv
+2025-05-24 16:05:27,072 - INFO - 
+                                        KPI    Valor       Fecha
+0     Tasa de variación diaria promedio (%)     0.08  2025-05-24
+1               Media móvil 5 días promedio    29.11  2025-05-24
+2              Volatilidad 20 días promedio     0.01  2025-05-24
+3                     Retorno acumulado (%)  1004.80  2025-05-24
+4  Desviación estándar del precio de cierre    17.24  2025-05-24
