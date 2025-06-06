@@ -221,3 +221,51 @@
 14  2025                                   0.05  ...                                      2.78                   4.74
 
 [15 rows x 6 columns]
+2025-06-06 00:00:19,359 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-06-06 00:00:19,359 - INFO - Nombre largo: The Coca-Cola Company
+2025-06-06 00:00:19,359 - INFO - Sector: Consumer Defensive
+2025-06-06 00:00:19,359 - INFO - Cierre anterior: 66.99
+2025-06-06 00:00:19,359 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-06-06 00:00:19,735 - INFO - Total de datos obtenidos: 3444
+2025-06-06 00:00:19,735 - INFO - Guardando datos en archivo CSV...
+2025-06-06 00:00:19,766 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-06-06 00:00:19,782 - INFO - Collector inicializado para el ticker COCA34.SA
+2025-06-06 00:00:19,782 - INFO - Nombre largo: The Coca-Cola Company
+2025-06-06 00:00:19,782 - INFO - Sector: Consumer Defensive
+2025-06-06 00:00:19,782 - INFO - Cierre anterior: 66.99
+2025-06-06 00:00:19,782 - INFO - Datos obtenidos desde el 2011 a 2025.
+2025-06-06 00:00:19,845 - INFO - Total de datos obtenidos: 3444
+2025-06-06 00:00:19,845 - INFO - Datos enriquecidos correctamente.
+2025-06-06 00:00:19,845 - INFO - Total de datos enriquecidos: 3424
+2025-06-06 00:00:19,845 - INFO - Guardando datos en archivo CSV...
+2025-06-06 00:00:19,891 - INFO - Datos guardados en archivo CSV: src/coca_cola/static/data/historical.csv
+2025-06-06 00:00:19,939 - INFO - Datos enriquecidos guardados en: src/coca_cola/static/data/enriched.csv
+2025-06-06 00:00:19,939 - INFO - Obtener datos para entrenar el modelo
+2025-06-06 00:00:19,954 - INFO - Modelo entrenado correctamente.
+2025-06-06 00:00:19,954 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-06-06 00:00:19,954 - INFO - Obtener datos para predecir
+2025-06-06 00:00:19,954 - INFO - [6.02241555 6.02241555 6.02241555 6.02241555 6.02241555]
+2025-06-06 00:00:19,954 - INFO - Predicciones realizadas correctamente.
+2025-06-06 00:00:19,954 - INFO - Predicciones guardadas en: src/coca_cola/static/models/model.pkl
+2025-06-06 00:00:20,017 - INFO - Predicciones guardadas en archivo CSV: src/coca_cola/static/data/predicciones.csv
+2025-06-06 00:00:20,032 - INFO - KPIs calculados y guardados correctamente.
+2025-06-06 00:00:20,032 - INFO - Archivo de KPIs generado en: src/coca_cola/static/data/kpis.csv
+2025-06-06 00:00:20,032 - INFO - 
+    Year  ...  Retorno acumulado (%)
+0   2011  ...                  23.42
+1   2012  ...                  17.80
+2   2013  ...                  31.01
+3   2014  ...                  20.86
+4   2015  ...                  55.38
+5   2016  ...                 -18.81
+6   2017  ...                  16.19
+7   2018  ...                  30.94
+8   2019  ...                  28.54
+9   2020  ...                  29.03
+10  2021  ...                  20.56
+11  2022  ...                   4.52
+12  2023  ...                 -14.31
+13  2024  ...                  33.61
+14  2025  ...                   5.51
+
+[15 rows x 6 columns]
