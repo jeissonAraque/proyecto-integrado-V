@@ -28,3 +28,8 @@
 2025-06-05 18:43:57,661 - INFO - MAE: 0.2973
 2025-06-05 18:43:57,662 - INFO - R²: 0.9993
 2025-06-05 18:43:57,665 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
+2025-06-08 21:26:35,382 - INFO - Modelo entrenado.
+2025-06-08 21:26:35,382 - INFO - RMSE: 0.4559
+2025-06-08 21:26:35,382 - INFO - MAE: 0.2772
+2025-06-08 21:26:35,382 - INFO - R²: 0.9993
+2025-06-08 21:26:35,382 - INFO - Modelo guardado en: src/coca_cola/static/models/model.pkl
