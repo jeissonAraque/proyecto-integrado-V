@@ -17,3 +17,6 @@
 - logger.py: configuración de logging.
 
 5. Redactar en formato APA (Título, Resumen, Introducción, Metodología) y colocar el informe en docs/report_entrega1.pdf.
+
+# Actividad 3
+-El link del video se encuentra en "docs\report_entrega3-Video.pdf"
